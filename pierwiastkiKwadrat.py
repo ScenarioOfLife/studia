@@ -22,4 +22,4 @@ try:
     else:
         pierwiastki(x,y,z)
 except ValueError:
-    print("Podales niepoprawne wartosci do strumienia. Program zakonczyl swoje dzialanie")
+    print("Podales niepoprawne wartosci do strumienia. Program zakonczyl swoje dzialanie.")
